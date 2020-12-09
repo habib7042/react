@@ -1,0 +1,19 @@
+{
+  "name": "first_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habib7042/react.git"
+  },
+  "author": "Habib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habib7042/react/issues"
+  },
+  "homepage": "https://github.com/habib7042/react#readme"
+}
